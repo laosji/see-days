@@ -11,6 +11,16 @@ The product is designed as a calm object about time passing, not as a productivi
 
 - Web: [https://seedays.laosji.net](https://seedays.laosji.net)
 
+## Screenshots
+
+### Home
+
+![See Days home screen](./docs/screenshots/home.png)
+
+### Life And Progress
+
+![See Days life countdown and yearly progress](./docs/screenshots/panels.png)
+
 ## Platforms
 
 - Web / PWA
@@ -65,6 +75,27 @@ After pushing the repo to GitHub, use the workflow:
 It will generate a release artifact named:
 
 - `SeeDaysSetup.exe`
+
+## Help Wanted
+
+Contributions are welcome.
+
+The area that most needs help right now is the tactile motion quality of the tear sequence, especially:
+
+- making the torn page crumple more like real paper
+- improving the paper ball material realism
+- making the paper ball slam into the screen feel heavier, sharper, and more believable
+
+If you are strong in:
+
+- Flutter motion systems
+- custom painting / deformation
+- physics-feel interaction design
+- paper material rendering
+
+please open an issue or PR.
+
+This project would benefit most from help on the paper-ball-to-screen-impact effect.
 
 ## Install As Desktop App
 
